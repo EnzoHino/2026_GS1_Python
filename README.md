@@ -19,7 +19,7 @@
 ## 🔗 Links
 
 - 📁 [Repositório GitHub](https://github.com/EnzoHino/2026_GS1_Python)
-- 🎬 [Vídeo Pitch no YouTube](LINK)
+- 🎬 [Vídeo Pitch no YouTube](https://youtu.be/Jm2Pqclf7FY?si=rT9l1tCpvJpC4BJy)
 
 ---
 
