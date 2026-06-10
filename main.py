@@ -143,7 +143,7 @@ print(f"""
 ============================================================
 MISSION CONTROL AI
 ============================================================
-Missão: CapsuleGuard
+Missão: FloodWatch Orbital
 Equipe: Os ciêntistas do espaço
 Quantidade de ciclos analisados: {len(data)}      
 ============================================================""")
@@ -219,7 +219,7 @@ print(f"""
 ============================================================
 RELATÓRIO FINAL DA MISSÃO
 ============================================================
-Missão: CapsuleGuard
+Missão: FloodWatch Orbital
 Equipe: Os ciêntistas do espaço
 
 Quantidade de ciclos analisados: {len(data)}
